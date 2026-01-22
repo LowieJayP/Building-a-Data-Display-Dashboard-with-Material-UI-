@@ -1,1 +1,3 @@
-# Building-a-Data-Display-Dashboard-with-Material-UI-
+Reflection
+
+Working on the Material UI dashboard project was a good learning experience for me. I found it easy to use the basic Material UI components like buttons, cards, and layouts because they were already well designed and easy to customize. The harder part was handling the data and making sure everything updated correctly when changes happened in the dashboard. I also struggled a bit with fixing layout and styling issues when components did not look the way I expected. This project helped me understand how dashboards are used in real-world applications to display and organize data clearly. Overall, the experience improved my confidence in using React with UI libraries and building practical web applications.
